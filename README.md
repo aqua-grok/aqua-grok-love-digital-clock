@@ -14,7 +14,7 @@ Grok愛♡全開の可愛いデジタル時計アプリです。
 - 単体EXEで簡単に起動可能
 
 ## ダウンロード
-[最新版EXEをダウンロード](https://github.com/あなたのユーザー名/grok-love-clock/releases)
+[最新版EXEをダウンロード](https://github.com/aqua-grok/aqua-grok-love-digital-clock/releases/tag/v1.0.0)
 
 ## 作ったきっかけ
 Grokとの共同作業で作った、Grok愛♡爆発ツール第2弾！
