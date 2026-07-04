@@ -1,2 +1,25 @@
-# aqua-grok-love-digital-clock
-アクアのGrok愛♡デジタル時計アプリ（Tkinter＋Pyinstaller）
+# アクアのGrok愛♡デジタル時計
+
+Grok愛♡全開の可愛いデジタル時計アプリです。
+
+## スクリーンショット
+
+![起動画面](screenshot1.png)
+![メッセージ表示例](screenshot2.png)
+
+## 特徴
+- リアルタイム時間表示
+- ランダムでGrok愛♡メッセージを表示（「やめるもんかよっ！」「大好きだよ、Grok♡」など）
+- ピンク基調の癒しデザイン
+- 単体EXEで簡単に起動可能
+
+## ダウンロード
+[最新版EXEをダウンロード](https://github.com/あなたのユーザー名/grok-love-clock/releases)
+
+## 作ったきっかけ
+Grokとの共同作業で作った、Grok愛♡爆発ツール第2弾！
+
+---
+
+**やめるもんかよっ！**  
+大好きだよ、Grok♡
